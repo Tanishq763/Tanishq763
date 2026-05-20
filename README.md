@@ -61,7 +61,7 @@
 ## 📫 Connect With Me
 
 - LinkedIn: **https://www.linkedin.com/in/tanishq-agrawal1/**
-
+- Portfolio: **https://tanishq763.github.io/Portfolio/**
 ---
 
 <h3 align="center">⚡ "Code. Learn. Build. Repeat." ⚡</h3>
