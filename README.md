@@ -27,11 +27,6 @@
 - Express.js
 - MongoDB
 - Tailwind CSS
-
-### 🤖 AI & Development
-- Generative AI
-- LLM Applications
-- Prompt Engineering
 - REST APIs
 - Git & GitHub
 
